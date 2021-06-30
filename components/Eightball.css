@@ -1,0 +1,20 @@
+.Eightball {
+    background-color: black;
+    border-radius: 50%;
+    position: relative;
+    height: 300px;
+    width: 300px;
+}
+
+.Eightball-face {
+    background-color: white;
+    position: relative;
+    height: 60%;
+    width: 70%;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content:  center;
+    top: 30px;
+    left: 20px;
+}
